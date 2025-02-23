@@ -1,0 +1,29 @@
+.h3{
+	text-align: center;
+	color: teal;
+}
+.box{
+	height:100px;
+	background-color: limegreen;
+	margin-bottom: 5px;
+}
+.box2{
+	height:100px;
+	background-color: turquoise;
+	margin-bottom: 5px;
+}
+.box3{
+	height:100px;
+	background-color: pink;
+	margin-bottom: 5px;
+}
+.box4{
+	height:100px;
+	background-color: purple;
+	margin-bottom: 5px;
+}
+.box5{
+	height:100px;
+	background-color: skyblue;
+	margin-bottom: 5px;
+}
